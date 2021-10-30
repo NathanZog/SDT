@@ -1,0 +1,14 @@
+body{
+    background-color: #000000;
+}
+.navbar{
+    background-color: #000000;
+}
+.imgnav{
+    height: 5rem;
+    width: 7%;
+}
+.header{
+    display: flex;
+    justify-content: center;
+}
